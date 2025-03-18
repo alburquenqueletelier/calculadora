@@ -1,17 +1,18 @@
 #prueba
 def main():
-    a = input("Ingrese primer número: ", int)
-    b =input("Ingrese segundo número: ", int)
+    a = int(input("Ingrese primer número: ", ))
+    b = int(input("Ingrese segundo número: ", ))
 
-    print("suma: ")
+    print("suma: ",suma(a,b))
     print("resta: ")
     print("multiplicación: ")
     print("división: ")
     # probando el programa
 
 
-def suma():
-    return
+def suma(a,b):
+
+    return a+b
 
 def resta():
     return
