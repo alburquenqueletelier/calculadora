@@ -1,3 +1,4 @@
+#prueba
 def main():
     input("Ingrese primer número: ", int)
     input("Ingrese segundo número: ", int)
@@ -6,6 +7,7 @@ def main():
     print("resta: ")
     print("multiplicación: ")
     print("división: ")
+    # probando el programa
 
 
 def suma():
