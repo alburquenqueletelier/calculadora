@@ -1,3 +1,4 @@
+#prueba
 def main():
     input("Ingrese primer número: ", int)
     input("Ingrese segundo número: ", int)
