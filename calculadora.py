@@ -1,7 +1,7 @@
 #prueba
 def main():
-    input("Ingrese primer número: ", int)
-    input("Ingrese segundo número: ", int)
+    a = input("Ingrese primer número: ", int)
+    b =input("Ingrese segundo número: ", int)
 
     print("suma: ")
     print("resta: ")
