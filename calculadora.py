@@ -4,23 +4,23 @@ def main():
     b = int(input("Ingrese segundo número: ", ))
 
     print("suma: ",suma(a,b))
-    print("multiplicación: ")
-    print("división: ")
+    print("resta: ",resta(a,b))
+    print("multiplicación: ",multiplicacion(a,b))
+    print("división: ",division(a,b))
     # probando el programa
 
 
 def suma(a,b):
-
     return a+b
 
-def resta():
-    return
+def resta(a,b):
+    return a-b
 
-def multiplicacion():
-    return
+def multiplicacion(a,b):
+    return a*b
 
-def division():
-    return
+def division(a,b):
+    return a/b
 
 if __name__ == "__main__":
     main()
